@@ -28,6 +28,6 @@ We welcome contributions from the open-source community to help us improve and e
 
 ## Contact Us
 
-If you have any questions or would like to learn more about SeineAI and our projects, feel free to reach out to us via [email](mailto:seineAI.io@gmail.com) or connect with us on [Twitter](https://x.com/SeineAi23196).
+If you have any questions or would like to learn more about SeineAI and our projects, feel free to reach out to us via [email](mailto:info@seine-AI.com) or connect with us on [Twitter](https://x.com/SeineAi23196).
 
 Join us on our journey to shape the future of AI-assisted software development!
